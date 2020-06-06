@@ -1,0 +1,63 @@
+.titulo {
+    font-family:fantasy;
+    font-size:40px ;
+    text-align: center;
+    color: rgb(233, 43, 10);
+ 
+}
+.nav-item {
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+display: inline;
+padding: 20px;
+
+}
+.nav-contenedor {
+    text-align: center;
+}
+.titulo-dos {
+    font-size: 30px;
+    font-family: fantasy;
+    text-align: center;
+    color: rgb(233, 43, 10);
+}
+.parrafo-uno
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-left:10% ;
+    margin-right :10% ;
+    text-align: justify;
+    font-size:18px ;
+}
+.imagen-uno {
+    display: block;
+    margin: auto;
+    
+}
+.lista {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    margin-left: 20%;
+}
+
+.video {
+    display: block;
+    margin: auto;
+}
+.footer {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+     'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+     font-size: 16px;
+     text-align: center;
+     margin: 7%;
+}
+.nav-link {
+    color: black;
+    text-decoration: none;
+
+}
+.nav-link:hover{
+    color: rgb(233, 43, 10);
+    font-size: 20px;
+    font-weight: 800;
+
+}
